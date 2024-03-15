@@ -1,7 +1,7 @@
 Token Terms
 ===========
 
-_Updated on 5 March 2024_
+_Updated on 15 March 2024_
 
 **Capitalised words and phrases are defined in the “Definitions” section of this document unless otherwise specified.**
 
